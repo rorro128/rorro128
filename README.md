@@ -1,4 +1,5 @@
-## Hi there 👋
+## Rodrigo Tardone Díaz 
+Consultor TI || SysAdmin || VoIP || Linux || Python 👋
 
 <!--
 **rorro128/rorro128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
