@@ -1,5 +1,5 @@
 <h1 align="center">Rodrigo Tardone Díaz</h1>
-<h3 align="center">Consultor TI || SysAdmin || Linux || Python || VoIP</h3>
+<h3 align="center">Consultor TI || Data Enginner || SysAdmin || Linux || Python || VoIP</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
